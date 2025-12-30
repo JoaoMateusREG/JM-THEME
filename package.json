@@ -1,0 +1,43 @@
+{
+  "name": "jm-dark-theme",
+  "description": "A dark theme made by JoaoMateusREG",
+  "version": "0.0.1",
+  "displayName": "JM Dark Theme",
+  "icon": "assets/logo.png",
+  "keywords": [
+    "jm-dark-theme",
+    "JoaoMateusREG",
+    "JM-DARK-THEME"
+  ],
+  "publisher": "JoaoMateusREG",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JM Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./JoaoMateusREG-Theme-Dark.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.7.1"
+  }
+}
