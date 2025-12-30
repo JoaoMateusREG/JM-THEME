@@ -6,9 +6,9 @@
 
 A dark theme for VS Code made by JoaoMateusREG.
 
-![Preview 1](https://raw.githubusercontent.com/JoaoMateusREG/JM-THEME/master/assets/JM-Dark-Theme-TS.jpg)
+![Preview 1](https://raw.githubusercontent.com/JoaoMateusREG/JM-THEME/master/assets/JM-Dark-Theme-TS.png)
 
-![Preview 2](https://raw.githubusercontent.com/JoaoMateusREG/JM-THEME/master/assets/JM-Dark-Theme-GO.jpg)
+![Preview 2](https://raw.githubusercontent.com/JoaoMateusREG/JM-THEME/master/assets/JM-Dark-Theme-GO.png)
 
 
 </div>
