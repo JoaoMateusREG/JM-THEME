@@ -21,7 +21,7 @@
       {
         "label": "JM Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./JoaoMateusREG-Theme-Dark.json"
+        "path": "./jm-dark-theme.json"
       }
     ]
   },
