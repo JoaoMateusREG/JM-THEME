@@ -1,15 +1,20 @@
 {
   "name": "jm-dark-theme",
   "description": "A dark theme made by JoaoMateusREG",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "JM Dark Theme",
   "icon": "assets/logo.png",
+  "publisher": "JoaoMateusREG",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaoMateusREG/JM-THEME.git"
+  },
   "keywords": [
     "jm-dark-theme",
     "JoaoMateusREG",
-    "JM-DARK-THEME"
+    "theme",
+    "dark"
   ],
-  "publisher": "JoaoMateusREG",
   "engines": {
     "vscode": "^1.60.0"
   },
